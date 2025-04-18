@@ -1,31 +1,36 @@
 ### Hello World 👋
-I am a fullstack software engineer
-- 🔭 Working on multiple project 'mainly Backend' using Python, Nodejs, Meteorjs
-- 🌱 Always learning new stuff and trying to apply it on live projects
-- ⚡ In love with Linux and security
+I’m a Software Engineer passionate about backend systems, distributed architecture, and building products that scale.
+- 🚀 Currently working on fintech and trading systems, with a deep focus on:
+ 	- High-performance backend services
+ 	- Real-time systems using Kafka and WebSockets
+ 	- Multi-provider payment and cash ledger systems
+- 💻 Tech I’m using daily: Java (Spring Boot), Node.js, NestJS, Python, PostgreSQL, Redis, RabbitMQ
+- 🏗️ Designing clean, maintainable systems following Clean Architecture and Domain-Driven Design
+- 🌐 Exploring stock market data, live pricing integrations, and event-driven architecture
+- ⚙️ Building microservices with event-driven architecture using Kafka and RabbitMQ
+- 🌍 Deployed services at scale using Kubernetes, Docker, and Terraform on AWS
+- 🧾 Hands-on with customer KYC, risk profiling, and questionnaire flows in regulated fintech environments
+- 📦 Integrated with external providers for banking (VA/IBAN provisioning), trading, and payments
+- 🧠 Always learning and applying best practices in performance, observability, and scalability
+- ⚙️ Linux enthusiast and clean code advocate
 <br>
 
 ## Connect with me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/m7md-fashkl)
-[<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/m7mdfashkl/)
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/m7md_fashkl)
 <br>
 <br>
 
 ## Expertise
 ###### Programming Languages
-<img align="left" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img align="left" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img align="left" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-<br>
-
-###### Web Technologies
-<img align="left" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img align="left" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img align="left" alt="css3" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
+<img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <br>
 
 ###### Frameworks and libraries
+<img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
+<img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
 <img align="left" alt= "Meteor JS" src="https://img.shields.io/badge/meteorjs-%23d74c4c.svg?style=for-the-badge&logo=meteor&logoColor=white"/>
 <img align="left" alt="expressjs" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
 <img align="left" alt="djnago" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
@@ -35,12 +40,18 @@ I am a fullstack software engineer
 <img align="left" alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img align="left" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img align="left" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 <br>
 
-###### Web Servers
-<img align="left" alt="Apache" src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white"/>
-<img align="left" alt="Nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"/>
-<img align="left" alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+###### Messaging & Streaming
+<img alt="Kafka" src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white"/>
+<img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
+
+###### Tools & Infra
+<img alt="Docker" src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
+<img align="left" alt="kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>  
+<img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
 <br>
 
 ###### Hosting/SaaS
